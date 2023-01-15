@@ -3,7 +3,6 @@ Some Fortnite builds reuploaded by Samicc and Fischsalat.
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
 Note: Some links are broken
-
 # Downloads
 
 # Pre-BattleRoyale
@@ -61,34 +60,38 @@ Note: Some links are broken
 | 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://rebrand.ly/5_00|
 | 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://rebrand.ly/5_01|
 | 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rebrand.ly/5_10|
-| 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://rebrand.ly/5_21|
-| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://rebrand.ly/5_30|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rebrand.ly/5_4_0|
-| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rebrand.ly/5_41|
 
 # Season 6
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 6.00-CL-4395664         	| 27-09-18       	 | UE4.21-4395664	    |		https://rebrand.ly/6_00_0|
 | 6.00-CL-4402180      		| 27-09-18         	 | UE4.21-4402180    	    |		https://rebrand.ly/6_00_1|
-| 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://rebrand.ly/6_01_0|
 | 6.01-CL-4424678		| 03-10-18		 | UE4.21-4424678	    | 		https://rebrand.ly/6_01_1|
 | 6.02-CL-4442095        	| 10-10-18     		 | UE4.21-4442095    	    | 		https://rebrand.ly/6_02_0|
 | 6.02-CL-4461277        	| 10-10-18       	 | UE4.21-4461277	    |           https://rebrand.ly/6_02_1|
 | 6.10-CL-4464155       	| 16-10-18      	 | UE4.21-4464155   	    | 		https://rebrand.ly/6_10_0|
 | 6.10-CL-4476098       	| 16-10-18      	 | UE4.21-4476098   	    | 		https://rebrand.ly/6_10_1|
-| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://rebrand.ly/6_10_2|
-| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		https://rebrand.ly/6_20_0|
-| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rebrand.ly/6_21_0|
 | 6.22-CL-4543176		| 04-11-18		 | UE4.21-4543176	    | 		https://rebrand.ly/6_22_0|
-| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://rebrand.ly/6_30_0|
+| 6.30-CL-4573096         	| 13-11-18       	 | UE4.21-4573096	    |		https://rebrand.ly/6_30|
 | 6.31-CL-4573279      	  	| 27-11-18       	 | UE4.21-4573279	    |		https://rebrand.ly/6_31_0|
 
 # Season 7
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 7.00-CL-4629139         	| 06-12-18       	 | UE4.22-4629139	    |		https://rebrand.ly/7_00|
-| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://rebrand.ly/07_10|
-| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://rebrand.ly/7_20|
 | 7.30-CL-4834550         	| 29-01-19       	 | UE4.22-4834550	    |		----- MANIFEST ----- |
 | 7.40-CL-5046157         	| 13-02-19       	 | UE4.22-5046157	    |		----- MANIFEST ----- |
+
+# Modded (These Builds are Only Avalable Modded)
+| Build                         | Date           	 |  Engine Version	    |		    Link             |
+| ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://rebrand.ly/5_21|
+| 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://rebrand.ly/5_30|
+| 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rebrand.ly/5_41|
+| 6.01-CL-4417689         	| 03-10-18       	 | UE4.21-4417689	    |           https://rebrand.ly/6_01_0|
+| 6.10-CL-4480234   	  	| 16-10-18       	 | UE4.21-4480234	    |		https://rebrand.ly/6_10_2|
+| 6.20-CL-4497486          	| 24-10-18         	 | UE4.21-4497486     	    | 		https://rebrand.ly/6_20_0|
+| 6.21-CL-4526925         	| 01-11-18       	 | UE4.21-4526925	    |		https://rebrand.ly/6_21_0|
+| 7.10-CL-4667333	       	| 18-12-18             	 | UE4.22-4667333	    |		https://rebrand.ly/07_10|
+| 7.20-CL-4727874	       	| 22-01-19             	 | UE4.22-4727874	    |		https://rebrand.ly/7_20|
