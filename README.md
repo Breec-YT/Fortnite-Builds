@@ -2,8 +2,12 @@
 Some Fortnite builds reuploaded by Samicc and Fischsalat. 
 Credits to DarkenMoon, Sparten, Macko, Crush and Polynite.
 
+I will add IOS / Android / Switch (PS4 / XBOX)? Later! (If i dont for get it :)
+
++ 4.5 is a little bit broken (Season 4 Trailer movie file); 5.10 has a Modiffied The Engine folder (Will replace it with the CL where the Original isnt Missing); Unmodified 5.41 / 6.01 / 6.10 / 6.20
+
 Note: Some links are broken
-# Downloads
+# Windows
 
 # Pre-BattleRoyale
 | Build                  	 | Date          	 | Engine Version	    |		    Link             |
@@ -59,7 +63,6 @@ Note: Some links are broken
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
 | 5.00-CL-4204761  	  	| 12-07-18       	 | UE4.21-4204761	    |		https://rebrand.ly/5_00|
 | 5.00-CL-4214610	  	| 12-07-18       	 | UE4.21-4214610	    |		https://rebrand.ly/5_01|
-| 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rebrand.ly/5_10|
 | 5.40-CL-4352937         	| 05-09-18       	 | UE4.21-4352937	    |		https://rebrand.ly/5_4_0|
 
 # Season 6
@@ -86,6 +89,7 @@ Note: Some links are broken
 # Modded (These Builds are Only Avalable Modded)
 | Build                         | Date           	 |  Engine Version	    |		    Link             |
 | ----------------------------- | ---------------------- | ------------------------ | ------------------------------ |
+| 5.10-CL-4240749         	| 25-07-18       	 | UE4.21-4240749	    |		https://rebrand.ly/5_10|
 | 5.21-CL-4288479         	| 15-08-18       	 | UE4.21-4288479 	    |           https://rebrand.ly/5_21|
 | 5.30-CL-4305896         	| 23-08-18       	 | UE4.21-4305896	    |           https://rebrand.ly/5_30|
 | 5.41-CL-4363240         	| 19-09-18       	 | UE4.21-4363240	    |		https://rebrand.ly/5_41|
